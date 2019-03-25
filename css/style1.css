@@ -1,0 +1,126 @@
+body {
+    background: linear-gradient(to top, #FFF, #858585);
+    background-repeat: no-repeat;
+    background-image: url("../img/44.jpg");
+}
+
+.styleone {
+    font-size: 50px;
+    border: solid 2px #858585;
+    position: center;
+    display: block;
+    outline: none;
+    margin: 10px 680px;
+    padding: 5pt 5pt;
+}
+
+.styletwo {
+    font-size: 50px;
+    border: solid 2px #666262;
+    position: center;
+    display: block;
+    outline: none;
+    margin: 10px 680px;
+    padding: 5pt 5pt;
+    border-color: rgb(226, 160, 62);
+}
+
+div {
+    font-size: 40px;
+    margin: 10px 840px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant-position: normal;
+}
+
+div1 {
+    font-size: 40px;
+    margin: 10px 760px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant-position: normal;
+}
+
+div2 {
+    font-size: 40px;
+    margin: 10px 820px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant-position: normal;
+}
+
+a {
+    font-size: 40px;
+    margin: 10px 783px;
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+}
+
+.button1 {
+    font-size: 10pt;
+    font: 20pt monospace;
+    padding: 8pt;
+    display: block;
+    color: black;
+    display: block;
+    margin: 1px 820px;
+}
+
+.button2 {
+    font-size: 10pt;
+    font: 20pt monospace;
+    padding: 8pt;
+    display: block;
+    color: #ec1111d0;
+    display: block;
+    margin: 10px 880px;
+}
+
+.button3 {
+    font-size: 10pt;
+    font: 20pt monospace;
+    padding: 8pt;
+    display: block;
+    color: #187547;
+    display: block;
+    margin: 10px 880px;
+}
+
+.correct {
+    font-size: 50px;
+    border: solid 2px #858585;
+    position: center;
+    display: block;
+    outline: none;
+    margin: 10px 680px;
+    padding: 5pt 5pt;
+    border-color: #0deb7c;
+    ;
+    background-color: rgb(00, 1000, 00, 0.6);
+}
+
+.incorrect {
+    font-size: 50px;
+    border: solid 2px #858585;
+    position: center;
+    display: block;
+    outline: none;
+    margin: 10px 680px;
+    padding: 5pt 5pt;
+    border-color: #ec1111d0;
+    background-color: rgb(1000, 00, 00, 0.6);
+}
+
+
+/*.butt {
+    font-size: 30pt;
+    font: 20pt monospace;
+    padding: 8pt;
+    display: block;
+    color: black;
+    display: block;
+    margin: 1px 820px;
+    size: 200px;
+    box-sizing: border-box;
+}*/
